@@ -1,0 +1,4 @@
+[submodule "node-bulletin-board"]
+	path = node-bulletin-board
+	url = https://github.com/docker-training/node-bulletin-board
+	branch = v1
